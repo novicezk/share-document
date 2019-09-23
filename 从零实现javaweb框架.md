@@ -296,9 +296,6 @@ public interface CrudRepository<T, ID extends Serializable> {
 - 文件上传下载
 - SSL安全认证
 
-<slide class="bg-black aligncenter" image="https://source.unsplash.com/n9WPPWiPPJw/ .anim">
-
-## Thanks for watching
-### novicezk {.text-intro.animated.fadeInUp.delay-500}
-
-[:fa-github: Github](https://github.com/novicezk){.button.ghost.animated.flipInX.delay-1200}
+<slide class="bg-trans-dark aligncenter">
+### 课后练习
+![](https://novicezk.github.io/q-code.jpg){:height="30%" width="30%"}
